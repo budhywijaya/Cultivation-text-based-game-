@@ -42,3 +42,6 @@ class Kepiting(Monster):
     def __init__(self):
         super().__init__("Kepiting", 4, 200) 
 
+class Cacing(Monster):
+    def __init__(self):
+        super().__init__("Cacing", 4, 200) 
